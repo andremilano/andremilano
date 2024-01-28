@@ -1,11 +1,9 @@
 <h1 align="center">Yo, Hii Im Andre Pratama Milano</h1>
 <h3 align="center">This is some of my Project Repository</h3>
 
-- 🌱 I’m currently learning **React, NextJS, and SQL**
-
 - 👨‍💻 All of my projects are available at [-](-)
 
-- 💬I have knowledge in **Javascript, Bootstrap, TailwindCSS**
+- 💬I have knowledge in **Javascript, Java, Bootstrap, TailwindCSS**
 
 - 📫 Reach me On **andremilano16@gmail.com**
 
