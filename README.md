@@ -1,9 +1,9 @@
 <h1 align="center">Yo, Hii Im Andre Pratama Milano</h1>
 <h3 align="center">This is some of my Project Repository</h3>
 
-- 👨‍💻 All of my projects are available at [-](-)
+- 👨‍💻 All of my projects are available at my Public Repositories
 
-- 💬I have knowledge in **Javascript, Java, Bootstrap, TailwindCSS**
+- 💬I have knowledge in **Javascript, Java, TailwindCSS, PHP, SQL, NodeJS**
 
 - 📫 Reach me On **andremilano16@gmail.com**
 
